@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+PyPDF2
+chromadb
+requests
+numpy
+python-jose[cryptography]
+pydantic
+python-dotenv
+typing-extensions
